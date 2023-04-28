@@ -1,0 +1,14 @@
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\bin\Release\netcoreapp2.1\WebApiNetWay_v1.deps.json
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\bin\Release\netcoreapp2.1\WebApiNetWay_v1.runtimeconfig.json
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\bin\Release\netcoreapp2.1\WebApiNetWay_v1.runtimeconfig.dev.json
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\bin\Release\netcoreapp2.1\WebApiNetWay_v1.dll
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\bin\Release\netcoreapp2.1\WebApiNetWay_v1.pdb
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.csprojAssemblyReference.cache
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.csproj.CoreCompileInputs.cache
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.RazorAssemblyInfo.cache
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.RazorAssemblyInfo.cs
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.AssemblyInfoInputs.cache
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.AssemblyInfo.cs
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.RazorTargetAssemblyInfo.cache
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.dll
+F:\Developer3\Dev_WebAPI\WebApiNetWay_v1\WebApiNetWay_v1\obj\Release\netcoreapp2.1\WebApiNetWay_v1.pdb
