@@ -1,2 +1,2 @@
 Index.html
-Edit Index2.html
+Index2
