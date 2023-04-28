@@ -13151,11 +13151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Developer3\\Dev_WebAPI\\WebApiNetWay_v1\\WebApiNetWay_v1\\WebApiNetWay_v1.csproj",
+      "projectUniqueName": "D:\\MyCode\\WebApiNetWay_v1_Test\\WebApiNetWay_v1\\WebApiNetWay_v1.csproj",
       "projectName": "WebApiNetWay_v1",
-      "projectPath": "F:\\Developer3\\Dev_WebAPI\\WebApiNetWay_v1\\WebApiNetWay_v1\\WebApiNetWay_v1.csproj",
+      "projectPath": "D:\\MyCode\\WebApiNetWay_v1_Test\\WebApiNetWay_v1\\WebApiNetWay_v1.csproj",
       "packagesPath": "C:\\Users\\xuand\\.nuget\\packages\\",
-      "outputPath": "F:\\Developer3\\Dev_WebAPI\\WebApiNetWay_v1\\WebApiNetWay_v1\\obj\\",
+      "outputPath": "D:\\MyCode\\WebApiNetWay_v1_Test\\WebApiNetWay_v1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
